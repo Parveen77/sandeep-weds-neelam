@@ -1,0 +1,146 @@
+body{
+  background-color: #000;
+}
+.navbar-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-family:"Montserrat-light";
+  font-size: 1.2rem;
+}
+
+/*testimonials section */
+.wedding-card{
+  padding: 5% 0 10%;
+  background-color:#F8F4EA;
+  background-color: #91D8E4;
+}
+#testimonials{
+
+  text-align: center;
+  background-color:#86E5FF;
+  color:#fff;
+  padding-top: 7%;
+  padding-bottom: 15%;
+  background-color:#000;
+}
+.testimonial-image{
+  width: 100%;
+  margin: 0px;
+}
+.testimonial-content{
+
+}
+/*Call to action section*/
+#cta{
+  background-color: #2DCDDF;
+  text-align: center;
+  padding: 7% 15%;
+}
+.cta-h3{
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color:#fff;
+}
+#footer{
+  text-align: center;
+  padding: 7% 3%;
+  background-color: #000;
+}
+.cta-icons{
+  padding:10px 10px;
+}
+.cta-copyright{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 0.9rem;
+}
+
+/*Resposnsive website */
+@media (max-width:992px){
+  #titlee{
+    text-align: center;
+  }
+  .title-image{
+  position: static;
+  transform: rotate(0);
+  width: 100%
+  }
+}
+img{
+    width:100%;
+    height:100%;
+}
+.vedio-prt{
+
+}
+.address-box{
+  height: 30px;
+  margin:2% 0%;
+  text-align: center;
+  padding: 1% 2%;
+  font-family: sans-serif;
+  font-weight: 300;
+
+}
+
+.address-container{
+  padding: 20% 0 5%;
+  background-color: #91D8E4;
+}
+.wedding-line{
+  font-family: 'Moon Dance', cursive;
+  font-weight: bolder;
+  background-color: #EAFDFC;
+  text-align: center;
+  font-size: 2.4rem;
+  padding: 10% 0 7%;
+}
+#wedding2{
+  color: red;
+  font-size: 3em;
+}
+#contact{
+  height: 15%;
+}
+.container123{
+  background-color: #CEEDC7;
+  padding-top: 2%;
+  text-align: center;
+}
+.programs1{
+  padding: 20px 0 0;
+  background-color: #91D8E4;
+}
+.btn-css{
+  padding: 2% 7% 2% 7%;
+}
+.navbar{
+  display:inline-block;
+}
+.nav-link{
+  color: #fff;
+}
+.container-fluid{
+  text-align: center;
+}
+.slider{
+    width:100%;
+
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    margin: 20px auto;
+}
+#img{
+    width:100%;
+    height:100%;
+}
+.replace{
+  margin-top: 10%
+}
+.icon-bar {
+  position: fixed;
+  top: 50%;
+  transform: rotate(90deg);
+  padding: 0;
+  left: -5%;
+}
